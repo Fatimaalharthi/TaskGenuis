@@ -1,0 +1,5 @@
+{
+  "name": "TaskGenius",
+  "description": "An AI-powered project management dashboard. Upload project documents to automatically generate tasks, view your assignments on a personalized calendar, and get assistance from an integrated AI chatbot.",
+  "requestFramePermissions": []
+}
